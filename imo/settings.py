@@ -25,7 +25,7 @@ SECRET_KEY = 'lu)9ln$k1=cky*8(l_2ean1pj)wumn2ol$q+-s0fv$!6ye-)4v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['ilmioil.com', '107.23.140.199']
 
 
 # Application definition
